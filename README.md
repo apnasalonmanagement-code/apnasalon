@@ -1,16 +1,21 @@
-# apna_salon
+Privacy Policy for QuickSalon
 
-A new Flutter project.
+Effective Date: September 30, 2026
 
-## Getting Started
+QuickSalon we operates the QuickSalon mobile application and website quicksalon.org.
 
-This project is a starting point for a Flutter application.
+QuickSalon may collect information such as your name, email address, phone number, city, profile details, and booking information to provide account, salon search, and appointment services.
 
-A few resources to get you started if this is your first Flutter project:
+We use this information to manage accounts, process bookings, provide support, send service-related notifications, and improve our services. We do not sell personal information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Information may be shared with salons when necessary to provide booking services and with trusted service providers required to operate QuickSalon.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Users may request deletion of their account and personal information by contacting:
+
+Email: support@quicksalon.org
+
+For more information, visit quicksalon.org.
+
+QuickSalon
+Website: quicksalon.org
+Email: support@quicksalon.org
